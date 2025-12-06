@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Vamshi377/Vamshi377/main/banner.png" width="100%" />
+
 # 🚀 Innovator | 💻 Full-Stack Developer | 🎯 Problem Solver
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Building+real-world+solutions;Full-Stack+Developer;Problem+Solver;Always+learning+and+innovating)
